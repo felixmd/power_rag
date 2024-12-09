@@ -1,0 +1,6 @@
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+streamlit>=1.24.0
+numpy>=1.24.0
+python-pptx>=0.6.21
+setuptools>=65.0.0 
